@@ -1,7 +1,7 @@
 """
 DB作成
 """
-
+# coding: utf-8
 import sys
 import sqlite3
 
